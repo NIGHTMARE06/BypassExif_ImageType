@@ -5,4 +5,6 @@ La funcion exif_imagetype verifica las primeras lineas de un archivo para saber 
 
 Este programa usa las firmas de algunos tipos de imagenes para poder sobrepasar esta funcion e inyectar un codigo PHP.
 
+Esta diseñado para funcionar en Linux pero se puede editar facilmente.
+
 Este programa esta escrito en PYTHON.
